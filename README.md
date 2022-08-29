@@ -134,25 +134,29 @@
                     height="25px"
                     data-canonical-src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white"
                     style="max-width: 100%"
-                /><img
+                />
+                <img
                     alt="trello"
                     src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
                     height="25px"
                     data-canonical-src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
                     style="max-width: 100%"
-                /><img
+                />
+                <img
                     alt="Jira"
                     src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
                     height="25px"
                     data-canonical-src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
                     style="max-width: 100%"
-                /><img
+                />
+                <img
                     alt="git"
                     src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
                     height="25px"
                     data-canonical-src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
                     style="max-width: 100%"
-                /><img
+                />
+                <img
                     alt="Brave"
                     src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"
                     height="25px"
