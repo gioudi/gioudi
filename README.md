@@ -6,7 +6,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at  <strong><a href="https://www.linkedin.com/in/soumyajit4419/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a></strong>
+- 🙋‍♂️ All about me is at  <strong><a href="https://www.linkedin.com/in/analyst-sergio-penagos/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a></strong>
 
 - 🔭  I’m currently working on `Vass`.
 
