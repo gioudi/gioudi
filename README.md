@@ -167,8 +167,9 @@
 
 
 ## 📊 My GitHub Data:
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Semi-dios&show_icons=true" />
-  
+<div align="left">
+  ![Gioudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gioudi&show_icons=true&theme=transparent)
+</div>
+<div align="right">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gioudi&show_icons=true" />
 </div>
