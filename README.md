@@ -168,9 +168,7 @@
 
 ## 📊 My GitHub Data:
 
-<div>  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gioudi&show_icons=true" />
-
+<div align="center">  
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gioudi&layout=compact" />
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gioudi&show_icons=true" />
-
 </div>
