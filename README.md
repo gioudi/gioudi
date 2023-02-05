@@ -167,9 +167,10 @@
 
 
 ## 📊 My GitHub Data:
-<div align="left">
-  ![Gioudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gioudi&show_icons=true&theme=transparent)
-</div>
-<div align="right">
+
+<div>  
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gioudi&show_icons=true" />
+
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gioudi&show_icons=true" />
+
 </div>
