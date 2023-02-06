@@ -43,11 +43,13 @@
   <h3> 🖥️ Works </h3>
   </summary>
 
-* Web developer- Android (Vass) <br/>(Dando Cfg, Mifel web, Mifel app) 
-* Web developer (Dolphin Engineering) <br/>(Primax admin) 
-* Web developer - Android (Qoopa) <br/>(deOne web, deOne app) 
-* Web developer (Soulmedical)<br/>(Develop and Maintain admin website)
-* Web developer (Conex travel) <br/>(Develop and Maintain website)
+* <a href="https://www.dando.co/es" alt="Dando-Cfg">Dando Cfg<a>.
+* <a href="https://play.google.com/store/apps/details?id=com.mifel.mobile.activity&hl=en&gl=US" alt="mifel-app">Mifel app<a>
+* <a href="https://www.mifel.com.mx/" alt="mifel-app">Mifel web<a>
+* Primax admin.
+* <a href="https://www.bbccerveceria.com/" alt="mifel-app">Cerveza BBC web <a> .
+* <a href="https://play.google.com/store/apps/details?id=com.qoopa.deone" alt="deone-app">DeOne app<a>
+* <a href="#" alt="deone">DeOne web<a>
   
 </details>
   
