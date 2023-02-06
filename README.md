@@ -104,7 +104,7 @@
 
   
  <details>
-  <summary><b>🔥 Github Streaks</b></summary>
+  <summary>🔥 Github Streaks</summary>
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gioudi&" alt="gioudi" /></p>
  </details>
   <details>	
@@ -118,7 +118,7 @@
  
 
  <details>
-  <summary><b>🏆 Github Achievements</b></summary>
+  <summary>🏆 Github Achievements</summary>
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gioudi&margin-w=5" alt="gioudi" /></a> </p>
  </details>
 </div>
