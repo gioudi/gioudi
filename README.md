@@ -2,7 +2,7 @@
  Sergio Penagos
 </h1>
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/analyst-sergio-penagos/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/analyst-sergio-penagos/)](https://www.linkedin.com/in/analyst-sergio-penagos/)
 [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://gioudi.github.io/analyst-sergio-penagos)](https://gioudi.github.io/analyst-sergio-penagos) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/groups/rundev)](https://www.facebook.com/groups/rundev)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:sergiopenagos881@gmail.com)](mailto:sergiopenagos881@gmail.com) 
