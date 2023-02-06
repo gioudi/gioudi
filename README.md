@@ -6,6 +6,8 @@
 [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://gioudi.github.io/analyst-sergio-penagos)](https://gioudi.github.io/analyst-sergio-penagos) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/groups/rundev)](https://www.facebook.com/groups/rundev)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:sergiopenagos881@gmail.com)](mailto:sergiopenagos881@gmail.com) 
+[![Resume Badge](https://img.shields.io/badge/resume-see-orange?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/gioudi/gioudi/blob/main/src/img/SergioPenagos_ultimate_resume.pdf)](https://github.com/gioudi/gioudi/blob/main/src/img/SergioPenagos_ultimate_resume.pdf)
+
 
 <div>
 
@@ -14,10 +16,10 @@
 <div width="100%">
  
   <p>
-  I come from a small place call Asgård, Since 4 years I’m working as a Web developer and currently I am a Frontend developer in <a href="https://vasscompany.com/en/" alt="vass">Vass<a> and I colaborated as a   partner in <a href="https://www.modyo.com" alt="modyo">Modyo<a> . I've developed a few accesible and usibilities websites and apps with different international and national teams. 
+  I come from a small place call Asgård, Since 4 years I’m working as a Web developer and currently I am a Frontend developer in <a href="https://vasscompany.com/en/" target="_blank" alt="vass">Vass<a> and I colaborated as a   partner in <a href="https://www.modyo.com"  target="_blank" alt="modyo">Modyo<a> . I've developed a few accesible and usibilities websites and apps with different international and national teams. 
   </p>
  
-  <p>Today I'm working in Myfel's project from <a href="https://www.modyo.com" alt="modyo">Modyo<a> and I've responsible to translate desing UX/UI to screens, widgets, elements, transitions, forms, emails   and views that every client can see and use them.</p>
+  <p>Today I'm working in Myfel's project from <a href="https://www.modyo.com" alt="modyo" target="_blank">Modyo<a> and I've responsible to translate desing UX/UI to screens, widgets, elements, transitions, forms, emails   and views that every client can see and use them.</p>
 
   <p>
   I also have knowledge in English or well I can have a good conversation and currently I'm continuing to improve myself...
@@ -43,13 +45,14 @@
   <h3> 🖥️ Works </h3>
   </summary>
 
-* <a href="https://www.dando.co/es" alt="Dando-Cfg">Dando Cfg<a>.
-* <a href="https://play.google.com/store/apps/details?id=com.mifel.mobile.activity&hl=en&gl=US" alt="mifel-app">Mifel app<a>
-* <a href="https://www.mifel.com.mx/" alt="mifel-app">Mifel web<a>
+* <a href="https://www.dando.co/es" target="_blank" alt="Dando-Cfg">Dando Cfg<a>.
+* <a href="https://play.google.com/store/apps/details?id=com.mifel.mobile.activity&hl=en&gl=US" target="_blank" alt="mifel-app">Mifel app<a>
+* <a href="https://www.mifel.com.mx/" target="_blank" alt="mifel-app">Mifel web<a>
 * Primax admin.
-* <a href="https://www.bbccerveceria.com/" alt="mifel-app">Cerveza BBC web <a> .
-* <a href="https://play.google.com/store/apps/details?id=com.qoopa.deone" alt="deone-app">DeOne app<a>
-* <a href="#" alt="deone">DeOne web<a>
+* <a href="https://www.bbccerveceria.com/" target="_blank" alt="mifel-app">Cerveza BBC web <a> .
+* <a href="https://play.google.com/store/apps/details?id=com.qoopa.deone" target="_blank" alt="deone-app">DeOne app<a>
+* <a href="#" target="_blank" alt="deone">DeOne web<a>
+ * <a href="https://www.stellaartois.com/" target="_blank" alt="stellaartois">Stella Artois web<a>
   
 </details>
   
