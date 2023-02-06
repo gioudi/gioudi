@@ -14,10 +14,10 @@
 <div width="100%">
  
   <p>
-  I come from a small place call Asgård, Since 4 years I’m working as a Web developer and currently I am a Frontend developer in @Vass and I colaborated as a   partner in @Modyo. I've developed a few accesible and usibilities websites and apps with different international and national teams. 
+  I come from a small place call Asgård, Since 4 years I’m working as a Web developer and currently I am a Frontend developer in <a href="https://vasscompany.com/en/" alt="vass">Vass<a> and I colaborated as a   partner in <a href="https://www.modyo.com" alt="modyo">Modyo<a> . I've developed a few accesible and usibilities websites and apps with different international and national teams. 
   </p>
  
-  <p>Today I'm working in Myfel's project from Modyo and I've responsible to translate desing UX/UI to screens, widgets, elements, transitions, forms, emails   and views that every client can see and use them.</p>
+  <p>Today I'm working in Myfel's project from <a href="https://www.modyo.com" alt="modyo">Modyo<a> and I've responsible to translate desing UX/UI to screens, widgets, elements, transitions, forms, emails   and views that every client can see and use them.</p>
 
   <p>
   I also have knowledge in English or well I can have a good conversation and currently I'm continuing to improve myself...
@@ -27,11 +27,7 @@
 
 </div>
 
- 
-
-  
-  
-  <details>
+<details>
   <summary>
   <h3> 🏫 Education </h3>
   </summary>
