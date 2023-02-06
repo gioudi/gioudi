@@ -5,14 +5,16 @@
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/analyst-sergio-penagos/) 
 [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://gioudi.github.io/analyst-sergio-penagos)](https://gioudi.github.io/analyst-sergio-penagos) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/groups/rundev)](https://www.facebook.com/groups/rundev)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiopenagos881@gmail.com)](mailto:sergiopenagos881@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:sergiopenagos881@gmail.com)](mailto:sergiopenagos881@gmail.com) 
 
 <div>
 
 ## 👨🏻‍💻 About Me:  [![Visits Badge](https://badges.strrl.dev/visits/gioudi/gioudi)](https://badges.strrl.dev) [![Years Badge](https://badges.strrl.dev/years/gioudi)](https://badges.strrl.dev) [![Public Repos Badge](https://badges.strrl.dev/repos/gioudi)](https://badges.strrl.dev) 
 
+<div width="100%">
+ 
   <p>
-  I come from a small place call Asgård, Since 4 years I’m working as a Web developer and currently I am a Frontend developer in @Vass and I colaborated as a   partner in @Modyo. I've developed a few accesible and usibilities websites and apps. 
+  I come from a small place call Asgård, Since 4 years I’m working as a Web developer and currently I am a Frontend developer in @Vass and I colaborated as a   partner in @Modyo. I've developed a few accesible and usibilities websites and apps with different international and national teams. 
   </p>
  
   <p>Today I'm working in Myfel's project from Modyo and I've responsible to translate desing UX/UI to screens, widgets, elements, transitions, forms, emails   and views that every client can see and use them.</p>
@@ -20,6 +22,48 @@
   <p>
   I also have knowledge in English or well I can have a good conversation and currently I'm continuing to improve myself...
   </p>
+
+ 
+
+</div>
+
+ 
+
+  
+  
+  <details>
+  <summary>
+  <h3> 🏫 Education </h3>
+  </summary>
+  
+* Associate Degree: Technical Software Developer <br/>(SENA, 11/2019)
+* Associate Degree: Information Systems Analysis Technologist <br/>(SENA, 07/2022)
+
+  
+</details>
+  
+<details>
+  <summary>
+  <h3> 🖥️ Works </h3>
+  </summary>
+
+* Web developer- Android (Vass) <br/>(Dando Cfg, Mifel web, Mifel app) 
+* Web developer (Dolphin Engineering) <br/>(Primax admin) 
+* Web developer - Android (Qoopa) <br/>(deOne web, deOne app) 
+* Web developer (Soulmedical)<br/>(Develop and Maintain admin website)
+* Web developer (Conex travel) <br/>(Develop and Maintain website)
+  
+</details>
+  
+<details>
+  <summary>
+  <h3> 📚 Learnings and Hobbies </h3>
+  </summary>
+  
+* I like 🥅 exercise, 🎮 games and build 💻software.
+
+</details>
+  
 </div>
 
 
@@ -55,13 +99,31 @@
 
 </div>
 
-<details> 
-  <summary>
-    📊 My GitHub Data:
-  </summary>
- 
+<div>
+<h3><b>📊 My GitHub Data:</b></h3>
+
   
-</details>
+ <details>
+  <summary><b>🔥 Github Streaks</b></summary>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gioudi&" alt="gioudi" /></p>
+ </details>
+  <details>	
+  <summary>⚡ Github Stats</summary>
+  <div> 
+    <img align="center" width="68%" height="320" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gioudi&show_icons=true" />
+    <img align="center" width="28%" height="320"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gioudi&show_icons=true" />
+   
+  </div>
+ </details>
+ 
+
+ <details>
+  <summary><b>🏆 Github Achievements</b></summary>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gioudi&margin-w=5" alt="gioudi" /></a> </p>
+ </details>
+</div>
+
+
 
 
 
