@@ -45,11 +45,11 @@
   <h3> 🖥️ Works </h3>
   </summary>
 
-* <a href="https://www.dando.co/es" target="_blank" alt="Dando-Cfg">Dando Cfg<a>.
+* <a href="https://www.dando.co/es" target="_blank" alt="Dando-Cfg">Dando Cfg<a>
 * <a href="https://play.google.com/store/apps/details?id=com.mifel.mobile.activity&hl=en&gl=US" target="_blank" alt="mifel-app">Mifel app<a>
 * <a href="https://www.mifel.com.mx/" target="_blank" alt="mifel-app">Mifel web<a>
-* Primax admin.
-* <a href="https://www.bbccerveceria.com/" target="_blank" alt="mifel-app">Cerveza BBC web <a> .
+* Primax admin
+* <a href="https://www.bbccerveceria.com/" target="_blank" alt="mifel-app">Cerveza BBC web <a>
 * <a href="https://play.google.com/store/apps/details?id=com.qoopa.deone" target="_blank" alt="deone-app">DeOne app<a>
 * <a href="#" target="_blank" alt="deone">DeOne web<a>
  * <a href="https://www.stellaartois.com/" target="_blank" alt="stellaartois">Stella Artois web<a>
