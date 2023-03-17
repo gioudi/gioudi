@@ -45,14 +45,16 @@
   <h3> 🖥️ Works </h3>
   </summary>
 
-* <a href="https://www.dando.co/es" target="_blank" alt="Dando-Cfg">Dando Cfg<a>
-* <a href="https://play.google.com/store/apps/details?id=com.mifel.mobile.activity&hl=en&gl=US" target="_blank" alt="mifel-app">Mifel app<a>
-* <a href="https://www.mifel.com.mx/" target="_blank" alt="mifel-app">Mifel web<a>
-* Primax admin
-* <a href="https://www.bbccerveceria.com/" target="_blank" alt="mifel-app">Cerveza BBC web <a>
- [DeOne app](https://play.google.com/store/apps/details?id=com.qoopa.deone)
- [DeOne web](https://www.facebook.com/DeOneapp/)
- [https://www.stellaartois.com/](https://www.stellaartois.com/)
+
+ [Dando web](https://www.dando.co/es/)</br>
+ [Dando private site](https://www.dando.co/es/staging-backoffice)</br>
+ [Dando onboarding](https://www.dando.co/es/comenzar-solicitud)</br>
+ [Mifel private site](https://mifel-banca.modyo.build/)</br>
+ Primax Kairos</br>
+ [Cerveza BBC web](https://www.bbccerveceria.com/)</br>
+ [DeOne app](https://play.google.com/store/apps/details?id=com.qoopa.deone)</br>
+ [DeOne web](https://www.facebook.com/DeOneapp/)</br>
+ [Stella web](https://www.stellaartois.com/)</br>
 
  
   
