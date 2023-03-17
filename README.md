@@ -55,7 +55,8 @@
  [DeOne app](https://play.google.com/store/apps/details?id=com.qoopa.deone)</br>
  [DeOne web](https://www.facebook.com/DeOneapp/)</br>
  [Stella web](https://www.stellaartois.com/)</br>
-
+ [Fake Google web](https://gioudi.github.io/landing-page-google/)</br>
+ [Weather web](https://gioudi.github.io/react-app-weather/)</br>
  
   
 </details>
