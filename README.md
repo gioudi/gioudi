@@ -16,7 +16,7 @@
 <div width="100%">
  
   <p>
-  I come from a small place call Asgård, Since 4 years I’m working as a Web developer and currently I am a Frontend developer in <a href="https://vasscompany.com/en/" target="_blank" alt="vass">Vass<a> and I colaborated as a   partner in <a href="https://www.modyo.com"  target="_blank" alt="modyo">Modyo<a> . I've developed a few accesible and usibilities websites and apps with different international and national teams. 
+  I come from a small place call Asgård, Since 5 years I’m working as a Web developer and currently I am a Frontend developer in <a href="https://vasscompany.com/en/" target="_blank" alt="vass">Vass<a> and I colaborated as a   partner in <a href="https://www.modyo.com"  target="_blank" alt="modyo">Modyo<a> . I've developed a few accesible and usibilities websites and apps with different international and national teams. 
   </p>
  
   <p>Today I'm working in Myfel's project from <a href="https://www.modyo.com" alt="modyo" target="_blank">Modyo<a> and I've responsible to translate desing UX/UI to screens, widgets, elements, transitions, forms, emails   and views that every client can see and use them.</p>
