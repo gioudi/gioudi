@@ -34,8 +34,8 @@
   <h3> 🏫 Education </h3>
   </summary>
   
-* Associate Degree: Technical Software Developer <br/>(SENA, 11/2019)
-* Associate Degree: Information Systems Analysis Technologist <br/>(SENA, 07/2022)
+* Associate's Degree: Technical Software Developer <br/>(SENA, 11/2019)
+* Associate's Degree: Information Systems Analysis Technologist <br/>(SENA, 07/2022)
 
   
 </details>
