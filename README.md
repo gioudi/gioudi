@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://gioudi.github.io/analyst-sergio-penagos)](https://gioudi.github.io/analyst-sergio-penagos) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/groups/rundev)](https://www.facebook.com/groups/rundev)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:sergiopenagos881@gmail.com)](mailto:sergiopenagos881@gmail.com) 
-[![Resume Badge](https://img.shields.io/badge/resume-see-orange?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/gioudi/gioudi/blob/main/src/img/SergioPenagos_ultimate_resume.pdf)](https://github.com/gioudi/gioudi/blob/main/src/img/SergioPenagos_ultimate_resume.pdf)
+[![Resume Badge](https://img.shields.io/badge/resume-see-orange?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/gioudi/gioudi/blob/main/src/img/Resume-web-developer.pdf)](https://github.com/gioudi/gioudi/blob/main/src/img/Resume-web-developer.pdf)
 
 
 <div>
