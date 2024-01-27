@@ -16,13 +16,11 @@
 <div width="100%">
  
   <p>
-I come from a small place called Asgård, Since 2017 I've been a Web developer and currently I am a Frontend developer willing to relocate and currently I am looking for a new challenge in my career. I've developed a few accessible and usabilities websites and apps with different international and national teams. 
-  </p>
- 
-  <p>Today I'm working in Myfel's project from <a href="https://www.modyo.com" alt="modyo" target="_blank">Modyo<a> and I've responsible to translate desing UX/UI to screens, widgets, elements, transitions, forms, emails   and views that every client can see and use them.</p>
-
   <p>
-  I also have knowledge in English or well I can have a good conversation and currently I'm continuing to improve myself...
+I come from a small place called Asgård, Since 2017 I've been a Frontend developer and currently I am looking for a new challenge in my career, besides I am  willing to relocate. I've developed a few accessible and usabilities websites and apps with different international and national teams. 
+  </p>
+  <p>
+  I also have knowledge in English or well I can have a good conversation.
   </p>
 
  
