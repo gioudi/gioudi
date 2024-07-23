@@ -1,5 +1,5 @@
 <h1 align="left">Hello <img src="./src/img/waving.gif" width="30px" height="30px"> I'm, 
- Sergio Penagos
+ Sergio Penagos (jormungadv)
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/analyst-sergio-penagos/)](https://www.linkedin.com/in/analyst-sergio-penagos/)
@@ -30,9 +30,9 @@ I come from a small place called Asgård, Since 2017 I've been a Frontend develo
   <summary>
   <h3> 🏫 Education </h3>
   </summary>
-  
-* Associate's Degree: Technical Software Developer <br/>(SENA, 11/2019)
+* Bachelor's Degree: Informatic Engineering <br/>(UNIR, Current)
 * Associate's Degree: Information Systems Analysis Technologist <br/>(SENA, 07/2022)
+* Associate's Degree: Technical Software Developer <br/>(SENA, 11/2019)
 
   
 </details>
@@ -42,7 +42,7 @@ I come from a small place called Asgård, Since 2017 I've been a Frontend develo
   <h3> 🖥️ Works </h3>
   </summary>
 
-
+ Intercam</br>
  Dando CFG</br>
  Mifel private site</br>
  Primax Kairos</br>
