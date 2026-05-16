@@ -16,11 +16,9 @@
  
   <p>
   <p>
-I come from a small place called Asgård, Since 2017 I've been a Frontend developer and currently I am looking for a new challenge in my career, besides I am  willing to relocate. I've developed a few accessible and usabilities websites and apps with different international and national teams. 
+I come from a small place called Asgård, Since 2017 I've been a Software Engineer and currently I am looking for a new challenge in my career, besides I am  willing to relocate. I've developed a few accessible and usabilities websites and apps with different international and national teams. 
   </p>
-  <p>
-  I also have knowledge in English or well I can have a good conversation.
-  </p>
+
 
  
 
